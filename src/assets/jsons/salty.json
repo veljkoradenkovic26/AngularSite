@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "naslov":"Eтно кафана Луњевица",
+        "opis":"Etno kafana Lunjevica postoji već dugi niz godina. Kao spoj tradicionalnog i savremenog, ona je omiljeno mesto ljubitelja pravog kafanskog duha.",
+        "sadrzaj":"Daleko od gradske buke, u selu Lunjevica, 3 km od grada, smeštena je kafana u kojoj je sve podređeno ukusima i mirisima, kafana u kojoj će sva Vaša čula uživati. Uz jedistvene specijalitete neobičnog naziva, ali i domaćeg tradicinalnog ukusa, kvalitetnu vinsku ponudu i zvuke stargogradske muzike, naše ljubazno osoblje će Vas uvesti u svet uživanja, svet u kome je svaki trenutak proveden kod nas, savršen trenutak. U našoj kafani, između ostalog, služimo jedinstvene specijalitete kao što su: specijalitet kraljice Drage, kraljev biftek, punjena lunjevačka vešalica i neverovatni specijalitet sa dvora Obrenovića koji se priprema ispred Vas. Prelepa otvorena letnja bašta kapaciteta do 70 mesta je idealno mesto za uživanje u našim specijalitetima uz zalazak sunca.",
+        "putanja":"assets/img/lunjevica.jpg",
+        "alt":"Eтно кафана Луњевица",
+        "kreirano":"03.07.2018",
+        "autor":"Admin"
+    },
+    {
+        "id":2,
+        "naslov":"La Tesla Restoran & Bar Cafe",
+        "opis":"Od svog početka pa sve do danas kulinarstvo je težilo ka svom savršenstvu, tako da bi svako jelo bilo priča za sebe. To savršenstvo možete probati u restoranu & caffe baru La Tesla u Gornjem Milanovcu.",
+        "sadrzaj":"Na mestu starih Dečijih novina, u samom centru grada Gornjeg Milanovca nalazi se restoran & caffe bar La Tesla, mesto ljubitelja dobrog zalogaja. Mi postojimo od 2016 godine i mlad smo restoran ali opremljen po najsavremenijim ugostiteljskim standardima. Veliki broj kulinarskih specijaliteta, prijatna muzika i atmosfera kao i ljubaznost našeg osoblja učiniće sve da ponovo budete naši gosti. ",
+        "putanja":"assets/img/tesla.jpg",
+        "alt":"La Tesla Restoran & Bar Cafe",
+        "kreirano":"05.07.2018",
+        "autor":"Admin"
+    }
+]

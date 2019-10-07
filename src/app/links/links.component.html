@@ -1,0 +1,14 @@
+
+<nav class="navbar navbar-expand-lg">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#yummyfood-nav" aria-controls="yummyfood-nav" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars" aria-hidden="true"></i> Menu</button>
+    <!-- Menu Area Start -->
+    <div class="collapse navbar-collapse justify-content-center" id="yummyfood-nav">
+        <ul class="navbar-nav" id="yummy-nav">
+        
+            <li class="nav-item" *ngFor="let link of linkovi">
+                <a class="nav-link" routerLink="{{ link.path }}">{{ link.value | uppercase }}</a>
+            </li>
+            
+        </ul>
+    </div>
+</nav>

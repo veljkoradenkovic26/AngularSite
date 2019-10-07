@@ -1,6 +1,25 @@
 # SAJT
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+## Application design
+
+![slika1](http://prntscr.com/p7s9xh)
+![slika2](http://prntscr.com/p7sadw)
+![slika3](http://prntscr.com/p7sb6j)
+
+
+## Opis funkcionalnosti
+
+Na pocetnoj strani se izlistavaju svi postovi pomocu servisa koji se naziva Postovi. Selektovanjem opcije "nastavi" ispod svakog clanka, radi se rutiranje po identifikatoru i ispisuje se ceo clanak.
+
+Rutiranje je izvrseno i pomocu linkova : Pocetna, Restorani, O autoru i Kontakt.
+
+Na linku restorani , izlistavaju se svi restorani a selektovanjem opcije "nastavi" ispod svakog clanka, radi se rutiranje po identifikatoru i ispisuje se ceo clanak.
+
+## Validatori
+
+Na svakoj formi su dodati validatori koji se registruju po izlasku iz polja, to je dogadjaj "touched". Za post, iskoristio sam reactive formu.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
 

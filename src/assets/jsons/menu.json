@@ -1,0 +1,18 @@
+[
+    {
+        "path":"/",
+        "value":"Početna"
+    },
+    {
+        "path":"/restorani",
+        "value":"Restorani"
+    },
+    {
+        "path":"/about",
+        "value":"O autoru"
+    },
+    {
+        "path":"/contact",
+        "value":"Kontakt"
+    }
+]

@@ -1,0 +1,23 @@
+<!-- Comment Area Start -->
+<div class="comment_area section_padding_50 clearfix">
+  <h4 class="mb-30">Komentari</h4>
+</div>
+
+<!-- Leave A Comment -->
+<div class="leave-comment-area section_padding_50 clearfix">
+  <div class="comment-form">
+      <h4 class="mb-30">Ostavite komentar</h4>
+
+      <!-- Comment Form -->
+      <form [formGroup]="form" (ngSubmit)="submit()">
+       
+        <div class="form-group">
+            <textarea formControlName="message" class="form-control" id="message" cols="30" rows="10" placeholder="Poruka"></textarea>
+        </div>
+        <div *ngIf="form.get('message').touched && form.get('message').invalid" class="alert alert-danger">
+              <div *ngIf="form.get('message').errors.required">Polje "Poruka" je obavezno</div>
+        </div>
+        <button type="submit" class="btn contact-btn">Komentariši</button>
+    </form>
+  </div>
+</div>
